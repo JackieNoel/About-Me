@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackieNoel
 - 👀 I’m interested in ...Javascript, Python, and more!
-- 🌱 I’m currently learning ...Python in a Web Development bootcamp
-- 💞️ I’m looking to collaborate on ...Javascript, anything Web Development
+- 🌱 I’m currently learning ...Python in a Full stack Web Development bootcamp
+- 💞️ I’m looking to collaborate on ...Javascript, Python, and anything Web Development
 - 📫 How to reach me ...jacquelinesnoel@gmail.com
 
 <!---
